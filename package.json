@@ -1,0 +1,9 @@
+{
+  "name": "sv-oss-deploy-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"require('fs').writeFileSync('BUILD', new Date().toISOString())\"",
+    "start": "node server.js"
+  }
+}

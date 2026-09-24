@@ -1,0 +1,7 @@
+{
+    "name": "serveravatar/sv-oss-deploy-test",
+    "description": "Deploy test for ServerAvatar OSS",
+    "require": {
+        "php": ">=8.1"
+    }
+}
